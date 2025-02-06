@@ -1,4 +1,4 @@
-hantom Sleuth (PhantomSL) 🕵️‍♂️
+Phantom Sleuth (PhantomSL) 🕵️‍♂️
 Phantom Sleuth is a network scanning and reconnaissance tool that allows users to gather detailed information about devices on a local network. It offers two scanning modes:
 
 Basic Scan: Retrieves IP, MAC address, hostname, and manufacturer.
